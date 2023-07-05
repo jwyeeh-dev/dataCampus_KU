@@ -17,10 +17,8 @@
 - 하드웨어의 발전 : 
 - 알고리즘 고도화 : 
 
-
-
 - 3가지 기본적인 구조
-    1. DNN
+    1. DNN (-> CNN, LSTM)
     2. CNN
     3. RNN 
 
@@ -34,3 +32,44 @@
 - 물류 : 자동화 로봇 -> Amazon 
 
 - 뇌를 수학적으로 모방한 Perceptron -> 여러가지 변수를 하나의 출력으로 제공하는
+
+<img width="700" alt="스크린샷 2023-07-05 오전 10 51 18" src="https://github.com/jwyeeh-dev/dataCampus_KU/assets/99489807/16b4569c-06c2-4f3c-8510-598987de06df">
+
+
+- 이러한 뉴런이 여러개가 한번에.
+
+- input / hidden / output
+
+- ANN은 히든레이어가 1개. DNN은 히든레이어가 많음(최소 26개~34개).
+
+<br>
+
+[tensorflow playground](http://playground.tensorflow.org/)
+
+<img width="700" alt="스크린샷 2023-07-05 오전 10 52 57" src="https://github.com/jwyeeh-dev/dataCampus_KU/assets/99489807/8ec1f7e7-b3b7-4b7b-84b0-edff820adce7">
+
+</br>
+
+- 인공지능은 구분하는 능력이 존재한다. 
+- Classification : 구분하기.
+- Regression : 값 맞추기
+
+### 성능 높이는 방법.
+1. 뉴런 늘리기.
+2. 히든레이어 늘리기.
+    - 고차원의 문제를 세밀하게. -> weight * param metrix
+
+### 어떻게 Weight와 Cost를 비교할 수 있을까?
+
+Difference가 가장 minimize된다면 -> 가장 베스트인.
+
+- layer가 늘어나면 chain dif 진행. -> back-propagation (w를 조금씩 바꾼다.)
+- Attention 
+
+
+### 머신러닝의 개념
+- 기계가 스스로 데이터 패턴을 찾고 학습하며 모델을 최적화하는 기술
+    1. Traditional Programming 
+
+    2. Machine Learning 
+    

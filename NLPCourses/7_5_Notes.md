@@ -1,4 +1,4 @@
-# 7월 5일 NLP 강의 필기
+# 7월 5일 ML/DL 개론 강의 필기
 
 ## 인공지능 적용 분야
 - 최근 인공지능이 들어가지 않는 분야가 없다.
@@ -61,7 +61,7 @@
 
 ### 어떻게 Weight와 Cost를 비교할 수 있을까?
 
-Difference가 가장 minimize된다면 -> 가장 베스트인.
+- Difference가 가장 minimize된다면 -> 가장 베스트인.
 
 - layer가 늘어나면 chain dif 진행. -> back-propagation (w를 조금씩 바꾼다.)
 - Attention 
@@ -70,7 +70,6 @@ Difference가 가장 minimize된다면 -> 가장 베스트인.
 ### 머신러닝의 개념
 - 기계가 스스로 데이터 패턴을 찾고 학습하며 모델을 최적화하는 기술
     1. Traditional Programming
-    
 
     2. Machine Learning 
 
@@ -80,5 +79,23 @@ Difference가 가장 minimize된다면 -> 가장 베스트인.
 
 - 현재 파이토치 우세. 
 
-- 딥러닝 공부 : [Edwith](https://edwith.org)
+- 딥러닝 공부 
+    1. [Edwith](https://edwith.org)
+    2. [deeplearning.ai](https://www.deeplearning.ai/)
+    3. 밑바닥부터 시작하는 딥러닝 1,2
+
+- 오디오 관련 공부
+    1. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+    
+### 음정 박자 -> Sequence -> 
+
+NLP, NLG -> s
+
+뤼튼, 헤이스타즈, 
+-> 활용 : 문제를 맞출 수 있을지, 못 맞출지.
+
+-> 사람인지 아닌지를 알려줘야 -> 윤리적, 혼동.
+
+
+**구글 어시스턴트 음성 합성 기술 -> wavenet**
 

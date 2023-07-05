@@ -69,7 +69,16 @@ Difference가 가장 minimize된다면 -> 가장 베스트인.
 
 ### 머신러닝의 개념
 - 기계가 스스로 데이터 패턴을 찾고 학습하며 모델을 최적화하는 기술
-    1. Traditional Programming 
+    1. Traditional Programming
+    
 
     2. Machine Learning 
-    
+
+        어떤 데이터가 될 확률을 의미하는 형태가 된다. -> ML
+
+- DL 트렌드 : [PaperWithCode](https://paperswithcode.com/)
+
+- 현재 파이토치 우세. 
+
+- 딥러닝 공부 : [Edwith](https://edwith.org)
+

@@ -93,4 +93,4 @@
 ![Alt text](image-8.png)
 - 내 주변의 있는 벡터를 다 더하고 context vector와 내 vector가 가까워질 수 있도록.
 
-s
+<img width="749" alt="스크린샷 2023-07-05 오후 2 24 22" src="https://github.com/jwyeeh-dev/dataCampus_KU/assets/99489807/3e3db18b-7126-4af9-9ab9-4e82c650b0a7">

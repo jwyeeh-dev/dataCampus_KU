@@ -1,4 +1,0 @@
-{
-    "id" : "unijellytwo@naver.com",
-    "pw" : "01077034572"
-}

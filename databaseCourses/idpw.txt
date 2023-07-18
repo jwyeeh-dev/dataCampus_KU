@@ -1,0 +1,7 @@
+{
+    "lms_id" : "unijellytwo@naver.com",
+    "lms_pw" : "01077034572",
+    "naver_id" : "wodudiu210",
+    "naver_pw" : "UNI7703code!"
+    
+}

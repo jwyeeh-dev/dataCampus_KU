@@ -1,4 +1,4 @@
 {
-    "inter_id" : "",
-    "inter_pw" : ""
+    "inter_id" : "wodudiu210",
+    "inter_pw" : "UNI7703code!"
 }
